@@ -54,6 +54,24 @@ const articles = [
         date: '2 апреля 2026',
         tag: 'Git',
         image: 'https://picsum.photos/seed/git6/400/250'
-    }
+    },
+    {
+        id: 7,
+        title: 'Название',
+        excerpt: 'Описание',
+        author: 'Татьяна Сидорова',
+        date: '12 марта 2026',
+        tag: 'Вёрстка',
+        image: 'https://picsum.photos/seed/flex5/400/250'
+    },
+    {
+        id: 8,
+        title: 'Flexbox за 5 минут',
+        excerpt: 'Краткий гайд по Flexbox: основные свойства и типичные паттерны вёрстки.',
+        author: 'Иван Иванов',
+        date: '30 марта 2016',
+        tag: 'Вёрстка',
+        image: 'https://picsum.photos/seed/flex5/400/250'
+    },
 ];
 export default articles;
